@@ -1,4 +1,4 @@
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff0000&height=120&section=header"/>](https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=header)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Simão+Dias;I'm+17+years+old;I+am+from+Portugal,+PT;I+study+analysis+and+systems+development;Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -52,4 +52,4 @@
   <a href ="" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
