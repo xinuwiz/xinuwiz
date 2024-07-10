@@ -9,7 +9,7 @@
 </div>
 <br>
 
-### Main skills:
+### Language's Skill's:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -19,20 +19,17 @@
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
  
-### Other Knowledge:
-![Git](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![SQlite](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MariaDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Neo4j](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Cassandra](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Express.JS](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Nest.JS](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Spigot](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Discord.JS](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+### Database Skill's:
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![SQlite](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![MariaDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Neo4j](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Cassandra](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+
+### Fullstack Skill's
+
 
 ### Studying in this moment:
 ![Jenkins](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
