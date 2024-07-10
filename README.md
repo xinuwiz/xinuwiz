@@ -38,9 +38,9 @@
 ![Discord](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Jenkins](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![Forge](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Kubernetes and Docker](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Jenkins](https://img.shields.io/badge/-jenkins-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Forge](https://img.shields.io/badge/-forge-0D1117?style=for-the-badge&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Kubernetes and Docker](https://img.shields.io/badge/-kubernetes/docker-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
