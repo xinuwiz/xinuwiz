@@ -29,13 +29,16 @@
 ![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge
-![Git](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Forge](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Bukkit](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Jenkins](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Discord](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Forge](https://img.shields.io/badge/-Forge-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Bukkit](https://img.shields.io/badge/-Bukkit-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Jenkins](https://img.shields.io/badge/-jenkins-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
