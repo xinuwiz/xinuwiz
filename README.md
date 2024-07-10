@@ -28,8 +28,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
-### Fullstack Skill's
-
+### Other Knowledge
+![Git](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Forge](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Bukkit](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Jenkins](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Discord](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Jenkins](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
