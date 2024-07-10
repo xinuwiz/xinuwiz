@@ -20,13 +20,13 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
  
 ### Database Skill's:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![SQlite](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![MariaDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Neo4j](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Cassandra](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![SQlite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Neo4j](https://img.shields.io/badge/-Neo4J-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Fullstack Skill's
 
