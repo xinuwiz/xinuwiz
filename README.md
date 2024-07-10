@@ -27,6 +27,7 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4J-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -38,7 +39,7 @@
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Next](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
