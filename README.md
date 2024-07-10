@@ -38,7 +38,8 @@
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Jenkins](https://img.shields.io/badge/-jenkins-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
