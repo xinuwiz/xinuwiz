@@ -9,6 +9,12 @@
 </div>
 <br>
 
+### Dialect's Skill's
+![Portuguese](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![French](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Spanish](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![English](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+
 ### Language's Skill's:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -18,8 +24,8 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
- 
-### Database Skill's:
+
+### Database Skill's
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
