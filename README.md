@@ -31,8 +31,8 @@
 
 ### Design Skill's
 
-![Figma](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Photopea](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Photopea](https://img.shields.io/badge/-photopea-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
