@@ -10,10 +10,10 @@
 <br>
 
 ### Dialect's Skill's
-![Portuguese](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![French](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Spanish](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![English](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Portuguese](https://img.shields.io/badge/-Portuguese-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![French](https://img.shields.io/badge/-French-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Spanish](https://img.shields.io/badge/-Spanish-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![English](https://img.shields.io/badge/-English-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Language's Skill's:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
