@@ -29,6 +29,10 @@
 ![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
+## Design Skill's
+
+
+
 ### Other Knowledge
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Forge](https://img.shields.io/badge/-Forge-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -44,6 +48,7 @@
 ![React Native](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
+![Nrwl](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
