@@ -52,7 +52,6 @@
 ### Studying in this moment:
 ![Nrwl](https://img.shields.io/badge/-Nrwl-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
