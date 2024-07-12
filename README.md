@@ -53,7 +53,7 @@
 ![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Nrwl](https://img.shields.io/badge/-Nrwl-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
