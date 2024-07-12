@@ -29,9 +29,10 @@
 ![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
-## Design Skill's
+### Design Skill's
 
-
+![Figma](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Photopea](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
