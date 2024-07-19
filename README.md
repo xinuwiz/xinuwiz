@@ -21,6 +21,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Go](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -34,6 +35,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![CouchDB](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Design Skill's
 
@@ -50,15 +52,12 @@
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Nrwl](https://img.shields.io/badge/-Nrwl-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Nrwl](https://img.shields.io/badge/-Nrwl-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CouchDB](https://img.shields.io/badge/-CouchDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Go](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
