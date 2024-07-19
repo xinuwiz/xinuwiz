@@ -24,7 +24,6 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Database Skill's
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
