@@ -35,7 +35,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![CouchDB](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![CouchDB](https://img.shields.io/badge/-CouchDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Design Skill's
 
