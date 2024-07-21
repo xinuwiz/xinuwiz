@@ -21,7 +21,6 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -56,8 +55,6 @@
 
 ### Studying in this moment:
 ![CouchDB](https://img.shields.io/badge/-CouchDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
