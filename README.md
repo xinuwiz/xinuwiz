@@ -15,46 +15,5 @@
 ![Spanish](https://img.shields.io/badge/-Spanish-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![English](https://img.shields.io/badge/-English-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
-### Language's Skill's:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-
-### Database Skill's
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![MariaDB](https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Neo4j](https://img.shields.io/badge/-Neo4J-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Cassandra](https://img.shields.io/badge/-Cassandra-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![CouchDB](https://img.shields.io/badge/-CouchDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-
-### Design Skill's
-
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Photopea](https://img.shields.io/badge/-photopea-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-
-### Other Knowledge
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Forge](https://img.shields.io/badge/-Forge-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Bukkit](https://img.shields.io/badge/-Bukkit-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Nest](https://img.shields.io/badge/-Nest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Nrwl](https://img.shields.io/badge/-Nrwl-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![CouchDB](https://img.shields.io/badge/-CouchDB-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
