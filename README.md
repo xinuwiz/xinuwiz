@@ -17,7 +17,7 @@
 
 ### Developer Skill's
 
-[![Java](https://skillicons.dev/icons?i=ruby,java,rust,c,asm,docker,kubernetes,jenkins,mysql,postgres,mariadb,sqlite,mongodb,neo4j,redis&theme=light)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=ruby,java,rust,c,asm,docker,kubernetes,jenkins,mysql,postgres,sqlite,mongo,neo4j,redis&theme=light)](https://skillicons.dev)
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
