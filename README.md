@@ -9,11 +9,5 @@
 </div>
 <br>
 
-### Dialect's Skill's
-![Portuguese](https://img.shields.io/badge/-Portuguese-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![French](https://img.shields.io/badge/-French-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Spanish](https://img.shields.io/badge/-Spanish-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![English](https://img.shields.io/badge/-English-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
